@@ -8,6 +8,9 @@
 
 ####Keys
 left/right = move body left & right
+
 up/down = move upper-arm
+
 a/d = move lower-arm
+
 w/s= move fingers (fingers can swivel or slide)
